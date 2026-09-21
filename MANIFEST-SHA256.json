@@ -1,34 +1,38 @@
 {
   "README.md": {
-    "bytes": 147,
-    "sha256": "31918ee2e6757cec35e6bbebc54f94c572a117d62b5df435e1f4be585c492610"
+    "bytes": 150,
+    "sha256": "1af94cb9ec3a122a1addd72cc1823cdfc73df1c775551fa94d2706233d037936"
   },
   "assets/icons/favicon.svg": {
-    "bytes": 331,
-    "sha256": "accb796f1bbbb45c066877437a71cd7e1f0c32a47a781439a8ec475b0c8b1dbb"
+    "bytes": 858,
+    "sha256": "0795228688a5a03baa8846ee5d309f3fa1a50d177285ffda2ac2a48173f654c7"
+  },
+  "assets/icons/silaj-isotipo.svg": {
+    "bytes": 858,
+    "sha256": "0795228688a5a03baa8846ee5d309f3fa1a50d177285ffda2ac2a48173f654c7"
   },
   "assets/images/hero-institucional.webp": {
-    "bytes": 274232,
-    "sha256": "78aa8bb1451c42e0326287a683cc8b8c8333129e0131da467b44f24b381fa6bf"
+    "bytes": 290712,
+    "sha256": "f0d02f9a98a7932b3b07ae3e5c24a5ea68ed80a46d5ee7b3b07576fb9813ad96"
   },
   "css/style.css": {
-    "bytes": 8944,
-    "sha256": "7ac1132301ae3eef1ea95321209f9ea56da6315721cc08b50d1f8275c2161310"
+    "bytes": 9629,
+    "sha256": "ac28ba71a06c45a777d5325b8876d185801557580b120a95205cf5946aa57435"
   },
   "index.html": {
-    "bytes": 7796,
-    "sha256": "1d9cd95a9d105e3191039b9354f393462e00d9e2a5f241b20171f8a826a67614"
+    "bytes": 8727,
+    "sha256": "b54cd49cdd164fa5fc9b765de969fe3536225ddc24628ce71dffb9630b5c532b"
   },
   "js/app.js": {
-    "bytes": 597,
-    "sha256": "6897ba69449956f05261b572b57850ac0907b7c7b3b24eb2253a1246d61c3f67"
+    "bytes": 703,
+    "sha256": "567d0c156705fde42b2c647511c8d791b16eb79f4e46d9ca6c14b18d86027df5"
   },
   "robots.txt": {
-    "bytes": 23,
-    "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
+    "bytes": 61,
+    "sha256": "1b9db0db29fcf1ce86acbd29f4c0fd38fe7a7d76334f607b2ae9d339797f15f4"
   },
   "sitemap.xml": {
-    "bytes": 129,
-    "sha256": "c8d0f3ebd733cef6d20abf407ce55ff44a1a40bdd5a6a44cc8930d6853ca11ea"
+    "bytes": 153,
+    "sha256": "2d630fabec6e608ec55904b5bcdf360696d1cac3c1327c38940bdd639f4f8281"
   }
 }

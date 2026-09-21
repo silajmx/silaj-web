@@ -1,3 +1,3 @@
-# WEB-001-K · Footer legal discreto
+# WEB-001-L · Versión de Lanzamiento
 
-La leyenda de marca se ubica al final absoluto, debajo del footer institucional, con baja jerarquía visual.
+Modelo operativo, isotipo institucional, audiencias reforzadas, optimización móvil y aviso legal expandido.

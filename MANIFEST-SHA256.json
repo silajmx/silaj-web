@@ -1,34 +1,34 @@
 {
   "README.md": {
-    "bytes": 455,
-    "sha256": "52fb25dd18705c37272a33097cb667b30c32c5484488ee573f546a91b74cbd14"
+    "bytes": 57,
+    "sha256": "728b9780900ba4dc482b8be4c409a8e0a319550083267aafc0ba053734e380c3"
   },
   "assets/icons/favicon.svg": {
-    "bytes": 371,
-    "sha256": "4b4eb43b2acb601f6d7a0ce08e7a1192d3902b0f88c9fe7beae3943bc9de390b"
+    "bytes": 331,
+    "sha256": "accb796f1bbbb45c066877437a71cd7e1f0c32a47a781439a8ec475b0c8b1dbb"
   },
   "assets/images/hero-institucional.webp": {
     "bytes": 274232,
     "sha256": "78aa8bb1451c42e0326287a683cc8b8c8333129e0131da467b44f24b381fa6bf"
   },
   "css/style.css": {
-    "bytes": 8901,
-    "sha256": "eaccb0a7c63be864018c4573a84dfa6e57fc8ac360109a94433c47e603c7bf94"
+    "bytes": 6596,
+    "sha256": "3efe517cdd2845b62662590a41d0ea5175a64a7b512b0bafc0f1898bc5e3f3db"
   },
   "index.html": {
-    "bytes": 8400,
-    "sha256": "41040c9a309b6dc68b1ee48038ef378a6320a7d5a84c9f7beafe4830341c34c2"
+    "bytes": 4430,
+    "sha256": "49426afeedb5629e47254bc3069316ebe92a5908941eb1569cf04ee62f6e3925"
   },
   "js/app.js": {
-    "bytes": 1246,
-    "sha256": "e25d1882b2e4952c18cc82090721bb2658b03e359b0da7386f163a841ca4cb29"
+    "bytes": 503,
+    "sha256": "e1ff8f98852b349b84250b274c990ad13c337bbbc9560eb39c9180157ede9589"
   },
   "robots.txt": {
-    "bytes": 61,
-    "sha256": "1b9db0db29fcf1ce86acbd29f4c0fd38fe7a7d76334f607b2ae9d339797f15f4"
+    "bytes": 23,
+    "sha256": "16ceb5ee3e0dc13aa9adf31a3ebbe45a1d965b8c2b9f72eaf84e5911e140ed95"
   },
   "sitemap.xml": {
-    "bytes": 202,
-    "sha256": "dc938f25aea82a83c9ae8e0d973fcd6ab30cfefd48a2d506e3f89c39eeeff1b1"
+    "bytes": 129,
+    "sha256": "c8d0f3ebd733cef6d20abf407ce55ff44a1a40bdd5a6a44cc8930d6853ca11ea"
   }
 }

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://silaj.mx/sitemap.xml

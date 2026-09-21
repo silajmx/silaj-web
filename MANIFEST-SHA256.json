@@ -1,0 +1,34 @@
+{
+  "README.md": {
+    "bytes": 455,
+    "sha256": "52fb25dd18705c37272a33097cb667b30c32c5484488ee573f546a91b74cbd14"
+  },
+  "assets/icons/favicon.svg": {
+    "bytes": 371,
+    "sha256": "4b4eb43b2acb601f6d7a0ce08e7a1192d3902b0f88c9fe7beae3943bc9de390b"
+  },
+  "assets/images/hero-institucional.webp": {
+    "bytes": 274232,
+    "sha256": "78aa8bb1451c42e0326287a683cc8b8c8333129e0131da467b44f24b381fa6bf"
+  },
+  "css/style.css": {
+    "bytes": 8901,
+    "sha256": "eaccb0a7c63be864018c4573a84dfa6e57fc8ac360109a94433c47e603c7bf94"
+  },
+  "index.html": {
+    "bytes": 8400,
+    "sha256": "41040c9a309b6dc68b1ee48038ef378a6320a7d5a84c9f7beafe4830341c34c2"
+  },
+  "js/app.js": {
+    "bytes": 1246,
+    "sha256": "e25d1882b2e4952c18cc82090721bb2658b03e359b0da7386f163a841ca4cb29"
+  },
+  "robots.txt": {
+    "bytes": 61,
+    "sha256": "1b9db0db29fcf1ce86acbd29f4c0fd38fe7a7d76334f607b2ae9d339797f15f4"
+  },
+  "sitemap.xml": {
+    "bytes": 202,
+    "sha256": "dc938f25aea82a83c9ae8e0d973fcd6ab30cfefd48a2d506e3f89c39eeeff1b1"
+  }
+}

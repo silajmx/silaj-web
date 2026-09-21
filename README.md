@@ -1,1 +1,1 @@
-# SILAJ WEB-001-F — Refinamiento Fino Premium Híbrido
+# WEB-001-H - Seis Pilares Estratégicos

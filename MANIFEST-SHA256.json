@@ -1,7 +1,7 @@
 {
   "README.md": {
-    "bytes": 122,
-    "sha256": "559d245cdda02962e335075ff797f637a06eab3443e262116f07d8e9cfe1a073"
+    "bytes": 147,
+    "sha256": "31918ee2e6757cec35e6bbebc54f94c572a117d62b5df435e1f4be585c492610"
   },
   "assets/icons/favicon.svg": {
     "bytes": 331,
@@ -12,12 +12,12 @@
     "sha256": "78aa8bb1451c42e0326287a683cc8b8c8333129e0131da467b44f24b381fa6bf"
   },
   "css/style.css": {
-    "bytes": 8100,
-    "sha256": "8175124c173cf52f921f6737d24eeba1d16bb1b25ee55f2754872e6058684691"
+    "bytes": 8944,
+    "sha256": "7ac1132301ae3eef1ea95321209f9ea56da6315721cc08b50d1f8275c2161310"
   },
   "index.html": {
-    "bytes": 7599,
-    "sha256": "66edfe6f2a82dd05780c9b95400c3d43afe1b52134cbd52bf1fdd1fe8a48b8dd"
+    "bytes": 7796,
+    "sha256": "1d9cd95a9d105e3191039b9354f393462e00d9e2a5f241b20171f8a826a67614"
   },
   "js/app.js": {
     "bytes": 597,

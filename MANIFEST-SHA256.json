@@ -1,38 +1,12 @@
 {
-  "README.md": {
-    "bytes": 150,
-    "sha256": "1af94cb9ec3a122a1addd72cc1823cdfc73df1c775551fa94d2706233d037936"
-  },
-  "assets/icons/favicon.svg": {
-    "bytes": 858,
-    "sha256": "0795228688a5a03baa8846ee5d309f3fa1a50d177285ffda2ac2a48173f654c7"
-  },
-  "assets/icons/silaj-isotipo.svg": {
-    "bytes": 858,
-    "sha256": "0795228688a5a03baa8846ee5d309f3fa1a50d177285ffda2ac2a48173f654c7"
-  },
-  "assets/images/hero-institucional.webp": {
-    "bytes": 290712,
-    "sha256": "f0d02f9a98a7932b3b07ae3e5c24a5ea68ed80a46d5ee7b3b07576fb9813ad96"
-  },
-  "css/style.css": {
-    "bytes": 9629,
-    "sha256": "ac28ba71a06c45a777d5325b8876d185801557580b120a95205cf5946aa57435"
-  },
-  "index.html": {
-    "bytes": 8727,
-    "sha256": "b54cd49cdd164fa5fc9b765de969fe3536225ddc24628ce71dffb9630b5c532b"
-  },
-  "js/app.js": {
-    "bytes": 703,
-    "sha256": "567d0c156705fde42b2c647511c8d791b16eb79f4e46d9ca6c14b18d86027df5"
-  },
-  "robots.txt": {
-    "bytes": 61,
-    "sha256": "1b9db0db29fcf1ce86acbd29f4c0fd38fe7a7d76334f607b2ae9d339797f15f4"
-  },
-  "sitemap.xml": {
-    "bytes": 153,
-    "sha256": "2d630fabec6e608ec55904b5bcdf360696d1cac3c1327c38940bdd639f4f8281"
-  }
+  "README.md": "1af94cb9ec3a122a1addd72cc1823cdfc73df1c775551fa94d2706233d037936",
+  "assets/icons/favicon.svg": "0795228688a5a03baa8846ee5d309f3fa1a50d177285ffda2ac2a48173f654c7",
+  "assets/icons/silaj-isotipo.svg": "0795228688a5a03baa8846ee5d309f3fa1a50d177285ffda2ac2a48173f654c7",
+  "assets/images/hero-institucional.webp": "f0d02f9a98a7932b3b07ae3e5c24a5ea68ed80a46d5ee7b3b07576fb9813ad96",
+  "css/style.css": "cad7d9f7092d656b6f960fa177a2cf83c0589563fc5e21f69ac71d7e7fd19fb9",
+  "data/products.json": "b3bad5e6179db2d01e0237cac172875cbe67c35d5e557d38ba565aba27272221",
+  "index.html": "a38f502d79705fb04af8aed8fc3edc2306b6ea50d1545bfbe4fc904241ba9fbd",
+  "js/app.js": "36d8932e19ad28188f8723d5e6bc9af97940e487287b4d4655244bb48dfeb36e",
+  "robots.txt": "1b9db0db29fcf1ce86acbd29f4c0fd38fe7a7d76334f607b2ae9d339797f15f4",
+  "sitemap.xml": "2d630fabec6e608ec55904b5bcdf360696d1cac3c1327c38940bdd639f4f8281"
 }

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "PJ-001",
+    "name": "Diagnóstico Integral de Riesgo Jurídico",
+    "family": "consulting",
+    "familyLabel": "SILAJ Consulting",
+    "summary": "Identificación estructurada de riesgos jurídicos, regulatorios, documentales y procedimentales.",
+    "deliverables": [
+      "Informe ejecutivo",
+      "Mapa de riesgos",
+      "Matriz de hallazgos",
+      "Plan de mitigación"
+    ],
+    "audience": "Gobierno, empresas, universidades y organismos autónomos",
+    "featured": true,
+    "available": true,
+    "order": 1
+  },
+  {
+    "id": "PJ-002",
+    "name": "Blindaje de Resoluciones",
+    "family": "government",
+    "familyLabel": "SILAJ Government",
+    "summary": "Revisión de legalidad, motivación, congruencia, exhaustividad y riesgos de impugnación.",
+    "deliverables": [
+      "Informe técnico",
+      "Matriz de observaciones",
+      "Versión revisada",
+      "Mapa de vulnerabilidades"
+    ],
+    "audience": "Autoridades resolutoras, órganos internos de control y unidades jurídicas",
+    "featured": true,
+    "available": true,
+    "order": 2
+  },
+  {
+    "id": "PJ-003",
+    "name": "Auditoría Jurídica Especializada",
+    "family": "consulting",
+    "familyLabel": "SILAJ Consulting",
+    "summary": "Evaluación sistemática de actos, expedientes, contratos y procedimientos.",
+    "deliverables": [
+      "Informe de auditoría",
+      "Matriz de cumplimiento",
+      "Hallazgos",
+      "Plan correctivo"
+    ],
+    "audience": "Instituciones públicas, empresas y áreas de control",
+    "featured": false,
+    "available": true,
+    "order": 3
+  },
+  {
+    "id": "PJ-004",
+    "name": "Teoría del Caso Estratégica",
+    "family": "litigation",
+    "familyLabel": "SILAJ Litigation",
+    "summary": "Construcción integrada de hechos, normas, prueba, argumentos, pretensiones y riesgos.",
+    "deliverables": [
+      "Matriz de teoría del caso",
+      "Línea de tiempo",
+      "Mapa probatorio",
+      "Ruta estratégica"
+    ],
+    "audience": "Despachos, litigantes, defensorías y áreas contenciosas",
+    "featured": true,
+    "available": true,
+    "order": 4
+  },
+  {
+    "id": "PJ-005",
+    "name": "Auditoría Procesal",
+    "family": "litigation",
+    "familyLabel": "SILAJ Litigation",
+    "summary": "Evaluación estratégica de expedientes litigiosos, actuaciones, prueba y riesgos procesales.",
+    "deliverables": [
+      "Cronología procesal",
+      "Mapa de pretensiones",
+      "Riesgos",
+      "Recomendaciones"
+    ],
+    "audience": "Despachos y áreas contenciosas",
+    "featured": false,
+    "available": true,
+    "order": 5
+  },
+  {
+    "id": "PJ-006",
+    "name": "Blindaje de Recursos e Impugnaciones",
+    "family": "litigation",
+    "familyLabel": "SILAJ Litigation",
+    "summary": "Fortalecimiento de medios de defensa, agravios, conceptos de impugnación y pretensiones.",
+    "deliverables": [
+      "Opinión técnica",
+      "Matriz de riesgos",
+      "Documento revisado",
+      "Recomendaciones"
+    ],
+    "audience": "Litigantes, despachos y equipos jurídicos",
+    "featured": false,
+    "available": true,
+    "order": 6
+  },
+  {
+    "id": "PJ-007",
+    "name": "Diagnóstico de Órganos Internos de Control",
+    "family": "government",
+    "familyLabel": "SILAJ Government",
+    "summary": "Evaluación de capacidades, procedimientos, expedientes, controles e indicadores institucionales.",
+    "deliverables": [
+      "Diagnóstico institucional",
+      "Mapa de capacidades",
+      "Matriz de riesgos",
+      "Roadmap"
+    ],
+    "audience": "Órganos internos de control y contralorías",
+    "featured": false,
+    "available": true,
+    "order": 7
+  },
+  {
+    "id": "PJ-008",
+    "name": "Fortalecimiento de Procedimientos Sancionadores",
+    "family": "government",
+    "familyLabel": "SILAJ Government",
+    "summary": "Rediseño y blindaje de procedimientos administrativos y de responsabilidades.",
+    "deliverables": [
+      "Mapa procesal",
+      "Controles",
+      "Formatos",
+      "Plan de fortalecimiento"
+    ],
+    "audience": "Autoridades investigadoras, substanciadoras y resolutoras",
+    "featured": false,
+    "available": true,
+    "order": 8
+  },
+  {
+    "id": "PJ-009",
+    "name": "Compliance Jurídico Integral",
+    "family": "compliance",
+    "familyLabel": "SILAJ Compliance",
+    "summary": "Evaluación de obligaciones, controles, evidencias y brechas de cumplimiento.",
+    "deliverables": [
+      "Mapa regulatorio",
+      "Matriz de cumplimiento",
+      "Riesgos",
+      "Plan de acción"
+    ],
+    "audience": "Empresas, sujetos regulados y áreas de cumplimiento",
+    "featured": true,
+    "available": true,
+    "order": 9
+  },
+  {
+    "id": "PJ-010",
+    "name": "Gobernanza Jurídica de Inteligencia Artificial",
+    "family": "compliance",
+    "familyLabel": "SILAJ Compliance",
+    "summary": "Diseño de políticas, controles, supervisión humana y trazabilidad para el uso responsable de IA.",
+    "deliverables": [
+      "Política de IA",
+      "Inventario de usos",
+      "Matriz de riesgos",
+      "Modelo de gobierno"
+    ],
+    "audience": "Gobierno, empresas, consejos y áreas de cumplimiento",
+    "featured": true,
+    "available": true,
+    "order": 10
+  },
+  {
+    "id": "PJ-011",
+    "name": "Protección de Datos Personales",
+    "family": "compliance",
+    "familyLabel": "SILAJ Compliance",
+    "summary": "Diagnóstico y fortalecimiento del gobierno de datos personales e información sensible.",
+    "deliverables": [
+      "Inventario",
+      "Mapa de flujos",
+      "Matriz de riesgos",
+      "Instrumentos de cumplimiento"
+    ],
+    "audience": "Organizaciones públicas y privadas",
+    "featured": false,
+    "available": true,
+    "order": 11
+  },
+  {
+    "id": "PJ-012",
+    "name": "Diagnóstico de Riesgos Corporativos",
+    "family": "corporate",
+    "familyLabel": "SILAJ Corporate",
+    "summary": "Identificación de contingencias contractuales, regulatorias, corporativas y operativas.",
+    "deliverables": [
+      "Mapa de riesgos",
+      "Priorización",
+      "Plan de tratamiento",
+      "Informe directivo"
+    ],
+    "audience": "Empresas, consejos y direcciones jurídicas",
+    "featured": false,
+    "available": true,
+    "order": 12
+  },
+  {
+    "id": "PJ-013",
+    "name": "Auditoría Contractual",
+    "family": "corporate",
+    "familyLabel": "SILAJ Corporate",
+    "summary": "Revisión de obligaciones, cláusulas críticas, incumplimientos y exposición contractual.",
+    "deliverables": [
+      "Inventario contractual",
+      "Matriz de obligaciones",
+      "Riesgos",
+      "Propuestas de mejora"
+    ],
+    "audience": "Corporativos, empresas y áreas jurídicas internas",
+    "featured": true,
+    "available": true,
+    "order": 13
+  },
+  {
+    "id": "PJ-014",
+    "name": "Gobierno Corporativo",
+    "family": "corporate",
+    "familyLabel": "SILAJ Corporate",
+    "summary": "Diseño de facultades, órganos de decisión, controles, políticas y trazabilidad corporativa.",
+    "deliverables": [
+      "Mapa de gobierno",
+      "Matriz de facultades",
+      "Políticas",
+      "Protocolo de decisiones"
+    ],
+    "audience": "Consejos, empresas y grupos corporativos",
+    "featured": false,
+    "available": true,
+    "order": 14
+  },
+  {
+    "id": "PJ-015",
+    "name": "Conferencias Estratégicas",
+    "family": "academy",
+    "familyLabel": "SILAJ Academy",
+    "summary": "Conferencias ejecutivas sobre inteligencia jurídica, blindaje, cumplimiento y gobernanza de IA.",
+    "deliverables": [
+      "Conferencia",
+      "Material ejecutivo",
+      "Sesión de preguntas"
+    ],
+    "audience": "Instituciones, universidades, empresas y asociaciones",
+    "featured": true,
+    "available": true,
+    "order": 15
+  },
+  {
+    "id": "PJ-016",
+    "name": "Talleres Especializados",
+    "family": "academy",
+    "familyLabel": "SILAJ Academy",
+    "summary": "Formación aplicada mediante casos, ejercicios, herramientas y evaluación.",
+    "deliverables": [
+      "Taller",
+      "Material",
+      "Caso práctico",
+      "Constancia"
+    ],
+    "audience": "Equipos jurídicos, administrativos y de cumplimiento",
+    "featured": false,
+    "available": true,
+    "order": 16
+  },
+  {
+    "id": "PJ-017",
+    "name": "Programas Ejecutivos",
+    "family": "academy",
+    "familyLabel": "SILAJ Academy",
+    "summary": "Programas de formación institucional en metodología, blindaje e inteligencia jurídica.",
+    "deliverables": [
+      "Programa",
+      "Materiales",
+      "Evaluación",
+      "Informe de resultados"
+    ],
+    "audience": "Alta dirección y equipos especializados",
+    "featured": false,
+    "available": true,
+    "order": 17
+  },
+  {
+    "id": "PJ-018",
+    "name": "Diplomados Institucionales",
+    "family": "academy",
+    "familyLabel": "SILAJ Academy",
+    "summary": "Formación de largo alcance para el desarrollo de capacidades jurídicas institucionales.",
+    "deliverables": [
+      "Plan académico",
+      "Sesiones",
+      "Evaluaciones",
+      "Constancias"
+    ],
+    "audience": "Universidades, organismos y dependencias",
+    "featured": false,
+    "available": true,
+    "order": 18
+  }
+]
